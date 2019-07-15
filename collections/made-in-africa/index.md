@@ -14,6 +14,7 @@ items:
  - gernest/utron
  - ushahidi/platform
  - Yorubaname/yorubaname-website
+ - xlsform/pyxform
 display_name: Made in Africa
 created_by: mozzadrella
 ---
